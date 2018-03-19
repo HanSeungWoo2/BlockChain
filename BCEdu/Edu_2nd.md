@@ -74,7 +74,7 @@
   ```
   3-1. Hyperledger Fabric sample 소스 가져오기(Git Clone)
   ```
-  $ git clone https://github.com/hyperledger/fabric-sample.git
+  $ git clone https://github.com/hyperledger/fabric-samples.git
   ```
   3-2. Hyperledger Fabric sample 소스 가져오기(Git이 설치되어 있지 않은 경우)
   ```
